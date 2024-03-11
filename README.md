@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m an engineer passionate about data, analytics, engineering.
+🌱 I’m an engineer passionate about data, analytics, engineering, data science.
 
 <!--
 **slhcyl/slhcyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
